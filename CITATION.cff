@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+title: MFD
+message: "If you use this software, please cite it using these metadata."
+
+authors:
+  - family-names: Rakowski
+    given-names: Alexander
+
+type: software
+repository-code: "https://github.com/HealthML/MFD"
+url: "https://github.com/dfg-desbi/MFD"
+
+abstract: "Multiple Instance Fine-Mapping: Metadata-guided feature disentanglement for functional genomics."
+
+keywords:
+  - "genomics"
+  - "feature disentanglement"
+  - "functional genomics"
+
+license: MIT
+
+references:
+  - type: article
+    authors:
+      - family-names: Rakowski
+        given-names: Alexander
+    title: "Metadata-guided Feature Disentanglement for Functional Genomics"
+    journal: Bioinformatics
+    year: 2024
+    doi: "10.1093/bioinformatics/btae403"
+
+version: "1.0.0"
+date-released: 2026-09-01
