@@ -1,5 +1,10 @@
 Metadata-guided Feature Disentanglement for Functional Genomics
 ==============================
+
+> **DeSBi Release:** This is a curated v1.0.0 release (desbi-2026.09.1) 
+> by the DFG Research Unit KI-FOR 5363 (DeSBi). 
+> See [DESBI_RELEASE.md](./DESBI_RELEASE.md) for provenance information and [CITATION.cff](./CITATION.cff) for citation metadata.
+
 *Alexander Rakowski, Remo Monti, Viktoriia Huryn, Marta Lemanczyk, Uwe Ohler, Christoph Lippert*
 
 Paper: https://doi.org/10.1093/bioinformatics/btae403
